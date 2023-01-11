@@ -5,7 +5,7 @@ The following are the projects listed in chronological order and hyperlinked to 
 1. [SAE AeroDesign Challenge](saeaero.md)(under construction)
 2. [Bachelor's Capstone Project](bcapprj.md)(under construction)
 3. [Mach 5 Engine](mfiveengine.md)(under construction)
-4. [Wankel Engine](wnkl.md)(under construction)
+4. [Wankel Engine](/docs/wnkl.md)(under construction)
 5. [Experimental 2 Stroke Engine](exp2t.md)(under construction)
 
 ## About Me
